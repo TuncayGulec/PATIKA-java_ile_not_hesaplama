@@ -1,0 +1,1 @@
+# PATIKA-java_ile_not_hesaplama
